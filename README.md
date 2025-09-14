@@ -29,11 +29,17 @@ seaborn
 
 Our analysis of the OmniMart dataset led to the following key insights:
 
-[Insight 1]: [Brief, one-sentence summary of a key finding, e.g., "The top 20% of customers contribute to over 60% of total revenue."]
+[Insight 1]: Most customers are aged 20–40, with a balanced gender distribution and predominantly low-to-medium income levels.
 
-[Insight 2]: [Brief, one-sentence summary, e.g., "Customer satisfaction ratings for electronics are significantly lower than for other product categories."]
+[Insight 2]: A small group of customers makes frequent, high-value purchases, while most buy occasionally; peak sales occur during holiday months.
 
-[Insight 3]: [Brief, one-sentence summary, e.g., "Order cancellations are highest for the 'Standard Shipping' method, indicating a potential logistics issue."]
+[Insight 3]: Electronics, Grocery, and Home Decor are the top-selling categories, with popular brands like Samsung and Nestle dominating transactions.
+
+[Insight 4]: Ratings are mostly positive, though certain products receive recurring negative feedback, indicating areas for improvement.
+
+[Insight 5]: Cash and Credit Card are the most used payment methods; Same-Day delivery is popular in urban areas, while Standard shipping dominates rural regions.
+
+[Insight 6]: Premium customers show higher repeat purchases and satisfaction, indicating better conversion and loyalty over time.
 
 For a more detailed breakdown, please refer to our full analysis in the Jupyter Notebook and the accompanying presentation.
 
